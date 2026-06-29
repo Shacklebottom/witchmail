@@ -5,7 +5,5 @@ namespace LengthUnits
     {
         Inches,
         Feet,
-        Yards,
-        Miles,
     }
 }

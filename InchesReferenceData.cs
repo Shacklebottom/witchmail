@@ -6,6 +6,7 @@ namespace LengthUnits
         public static readonly List<string> InchesCollection = 
         [
             "in",
+            "in.",
             "inch",
             "inches",
             "\"",
