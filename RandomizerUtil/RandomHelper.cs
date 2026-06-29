@@ -8,5 +8,10 @@
         {
             return _random.Next(len);
         }
+
+        public static int GetRandom(int min, int max)
+        {
+            return _random.Next(min, max);
+        }
     }
 }
