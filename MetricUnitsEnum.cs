@@ -1,7 +1,7 @@
 ﻿
 namespace LengthUnits
 {
-    public enum MetricUnitEnum
+    public enum MetricUnitsEnum
     {
         Millimeters,
         Centimeters,
