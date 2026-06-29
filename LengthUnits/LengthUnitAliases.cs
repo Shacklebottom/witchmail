@@ -21,16 +21,14 @@ namespace LengthUnits
         public static readonly Dictionary<string, LengthUnit> MetricUnitMap = new()
         {
             ["mm"] = LengthUnit.Millimeter,
+            ["mm."] = LengthUnit.Millimeter,
             ["millimeter"] = LengthUnit.Millimeter,
             ["millimeters"] = LengthUnit.Millimeter,
-            ["millimetre"] = LengthUnit.Millimeter,
-            ["millimetres"] = LengthUnit.Millimeter,
 
             ["cm"] = LengthUnit.Centimeter,
+            ["cm."] = LengthUnit.Centimeter,
             ["centimeter"] = LengthUnit.Centimeter,
             ["centimeters"] = LengthUnit.Centimeter,
-            ["centimetre"] = LengthUnit.Centimeter,
-            ["centimetres"] = LengthUnit.Centimeter,
         };
     }
 }
