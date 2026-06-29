@@ -6,10 +6,9 @@ namespace LengthUnits
         public static readonly List<string> MillimeterCollection = 
         [
             "mm",
+            "mm.",
             "millimeter",
             "millimeters",
-            "millimetre",
-            "millimetres",
         ];
     }
 }

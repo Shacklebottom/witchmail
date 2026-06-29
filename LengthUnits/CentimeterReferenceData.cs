@@ -6,10 +6,9 @@ namespace LengthUnits
         public static readonly List<string> CentimeterCollection =
         [
             "cm",
+            "cm.",
             "centimeter",
             "centimeters",
-            "centimetre",
-            "centimetres",
         ];
     }
 }
