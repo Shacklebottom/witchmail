@@ -1,4 +1,3 @@
 <Solution>
-  <Project Path="../RandomGenerator/RandomGenerator.csproj" Id="9fcae171-bffa-418f-9d6a-e90075ebc1f4" />
   <Project Path="LengthUnits.csproj" />
 </Solution>
