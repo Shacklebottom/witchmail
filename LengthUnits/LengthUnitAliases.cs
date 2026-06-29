@@ -11,11 +11,11 @@ namespace LengthUnits
             ["inches"] = LengthUnit.Inch,
             ["\""] = LengthUnit.Inch,
 
-            ["ft"] = LengthUnit.Foot,
-            ["ft."] = LengthUnit.Foot,
-            ["foot"] = LengthUnit.Foot,
-            ["feet"] = LengthUnit.Foot,
-            ["'"] = LengthUnit.Foot,
+            ["ft"] = LengthUnit.Feet,
+            ["ft."] = LengthUnit.Feet,
+            ["foot"] = LengthUnit.Feet,
+            ["feet"] = LengthUnit.Feet,
+            ["'"] = LengthUnit.Feet,
         };
 
         public static readonly Dictionary<string, LengthUnit> MetricUnitMap = new()

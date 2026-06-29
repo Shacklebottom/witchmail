@@ -4,7 +4,7 @@ namespace LengthUnits
     public enum LengthUnit
     {
         Inch,
-        Foot,
+        Feet,
         Millimeter,
         Centimeter,
     }
