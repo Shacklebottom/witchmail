@@ -9,7 +9,6 @@ namespace LengthUnits
             "inch",
             "inches",
             "\"",
-            "\"",
         ];
     }
 }
