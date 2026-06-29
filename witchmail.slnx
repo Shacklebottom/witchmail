@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="LengthUnits.csproj" />
+  <Project Path="LengthUnits/LengthUnits.csproj" />
+  <Project Path="RandomizerUtil/RandomizerUtil.csproj" />
 </Solution>
