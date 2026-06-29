@@ -1,5 +1,5 @@
 <Solution>
   <Project Path="LengthUnits/LengthUnits.csproj" />
   <Project Path="RandomizerUtil/RandomizerUtil.csproj" />
-  <Project Path="TestHarness/TSEntry/TSEntry.csproj" Id="e55193d6-770b-4585-8a30-3a7ed648d8db" />
+  <Project Path="TestHarness/TestHarness.csproj" />
 </Solution>

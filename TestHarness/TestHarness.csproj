@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\LengthUnits\LengthUnits.csproj" />
-    <ProjectReference Include="..\..\RandomizerUtil\RandomizerUtil.csproj" />
+    <ProjectReference Include="..\LengthUnits\LengthUnits.csproj" />
+    <ProjectReference Include="..\RandomizerUtil\RandomizerUtil.csproj" />
   </ItemGroup>
 
 </Project>
